@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/W4vEDev/W4vEDev/master/profile-summary-card-output/default/0-profile-details.svg)
+### Coding Stats
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 <!--
 **W4vEDev/W4vEDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
